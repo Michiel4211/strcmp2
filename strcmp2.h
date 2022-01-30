@@ -1,0 +1,1 @@
+int strcmp2(const char *p1, const char *p2);
